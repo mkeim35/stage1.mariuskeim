@@ -1,0 +1,37 @@
+
+
+body {
+    font-family: verdana;
+}
+
+.title {
+    background-color: #F5F5F5;
+    color: black;
+    padding: 50px 400px 50px 400px;
+    font-size: 54px
+}
+
+.myfriend {
+    background-color: #F5F5F5;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.characteristics {
+    color: black;
+    background-color: #F5F5F5;
+    max-width: 500px;
+    margin: 0px 0px 0px 500px;
+    font-size: 20px
+}
+
+.picture {
+    max-width: 270px;
+    background-color: #F5F5F5;
+    margin: 0px 0px 10px 0px;
+}
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
